@@ -5,7 +5,7 @@
 Here is the simple demo for searching parking lots on the street side:
 
 
-![](demo.gif)
+<div align=center><img src="demo.gif"/></div>
 
 
 
